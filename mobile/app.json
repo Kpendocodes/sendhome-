@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "SendHome",
+    "slug": "sendhome",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0A7CFF"
+    },
+    "android": {
+      "package": "com.sendhome.app",
+      "permissions": [
+        "USE_BIOMETRIC",
+        "USE_FINGERPRINT"
+      ]
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
