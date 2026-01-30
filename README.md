@@ -1,6 +1,6 @@
 Sendhome Mobile App
 
-A cross-platform mobile application built with **React Native** to deliver a fast, modern user experience on both **iOS** and **Android**.
+An ios Money Transfer  mobile application built with **React Native** to deliver a fast, modern user experience on both **iOS** and **Android**.
 
 ---
 
