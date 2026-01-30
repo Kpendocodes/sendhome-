@@ -10,7 +10,7 @@ A cross-platform mobile application built with **React Native** to deliver a fas
 - **Expo**
 - **Node.js**
 - **JavaScript / TypeScript**
-- **Android SDK & Xcode** (for native builds)
+- **Expo go & Xcode** (for native builds)
 
 ---
 
